@@ -94,7 +94,7 @@ _Italic_ or _Italic_: `*italic*` or `_italic_`
 [Google](https://google.com/)
 
 **Image**:
-![Alt text](https://github.com/hameed008/learn-wiki/blob/main/blue-5457731.jpg)
+![MyImage](https://github.com/hameed003/learn-wiki/blob/main/blue-5457731.jpg)
 
 ### Code Blocks:
 
